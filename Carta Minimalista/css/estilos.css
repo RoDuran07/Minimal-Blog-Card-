@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300&display=swap');
+
+
+.contenido{
+    background: rgb(247, 244, 244);
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-content: center;
+ }
+ .main{
+ 
+ width: 390px;
+ height: 400px;   
+ padding: 15px;
+ background: rgb(255, 255, 255);
+ border-radius: 15px;
+ box-shadow: 5px 5px 15px 0px rgb(224, 219, 219)
+ }
+ 
+ img{
+    height: 190px;
+    width: 390px;
+    border-radius: 15px;
+ }
+ 
+ h1{
+    font-size: 18px;
+    font-family: Sora;
+ }
+ .diseño{
+    background: rgba(220, 226, 233, 0.733);
+    width: 60px;
+    height: 13px;
+    border-radius: 15px;
+    font-family: Sora;
+    font-size: 12px;
+    color: rgba(158, 54, 199, 0.808);
+    text-align: center;
+    font-size: 11px;
+    padding: 6px;   
+ }
+ 
+ p{
+    color: rgb(160, 156, 156);
+    font-size: 16px;
+    font-family: Sora;
+ }
+
+ .tag{
+ border-top:2px solid #E5EAF0;
+ margin-top: 1rem;
+ font-size: 12px;
+ padding-top: 20px;
+ font-family: Sora;
+ }
+ 
+ 
+ 
+ 
